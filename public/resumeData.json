@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name":"Phiraphon Kunmueang (Arm)",
+    "description":"I fell in love with programming and I have at least learnt something, I think I am fluent in classics like HTML, CSS, PHP, Javascript and I am ready to learn new things and Python. My field of Interest's are building new  Web and AppicationTechnologies. Whenever possible, I also apply my passion for developing products with  Frameworks like React.js and Flutter.",
+    "image":"arm.jpg",
+    "bio":"👋 Hello, this is Phirahporn Kunmueang. 👀 I'm interested in programming about Java, Python, HTML, CSS, JavaScript(Vue , React , Next js), XML, PHP, Flutter. 🌱 Now I graduated from Computer Engineering at Prince of Songkhla University. Phuket Campus 💞️ I want to work on creating Web Appplication, Application, Data Collection, Data System. 📫 You can contact me at  Phone number: 0922293495 Email: sunarmzaa@gmail.com",
+    "contactmessage":"ติดต่อ",
+    "email": "phiraphon.kun@gmail.com",
+    "phone": "092-229 3495",
+    "github":"https://github.com/sunarmzaa/",
+    "project":"./images/cv.pdf",
+    "facebook":"./images/cv.pdf",
+    "address":{
+      "street":"---------------",
+      "city":"Thailand",
+      "state":"Suratthai",
+      "zip": "84240"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/phiraphon.kunmueang",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/suarmzaa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "//skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Prince of Songkhla University Phuket Campus",
+        "degree":"Bachelor of Computer Engineering",
+        "graduated":"June 2017 - November 2021",
+        "//description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Digital Economy Promotion Agency (depa)",
+        "title":"PHP Developer",
+        "years":"May 2021 – July 2021",
+        "description":"1. ระบบตรวจสอบข้อมูลความประสงค์ขอรับวัคซีนชาวต่างชาติและต่างด้าว ด้วยภาษา PHP  และใช้ฐานข้อมูล  MySQL 2. ระบบข้อมูลผู้เปราะบาง จ.ภูเก็ต ด้วยภาษา PHP และใช้ฐานข้อมูล MySQL 3. ระบบ Import ข้อมูลผู้ที่ทำการฉีดวัคซีนแล้วจากระบบ MophIC ด้วยภาษา PHP และใช้ฐานข้อมูล MySQL 4. Database Customer Support ของ ระบบภูเก็ตต้องชนะ.com 5. Research and develop the Sentiment Analysis system of Phuket Province. 6. Research and develop the Latent Dirichlet Allocation system of Phuket Province."
+      },
+      {
+        "company":"Geo-Informatics and Space Technology Development Agency (GISTDA)",
+        "title":"Programmer",
+        "years":"Nov 2021 - Present",
+        "//description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"60%"
+      },
+      {
+        "name":"CC",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Laravel",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"การฝึกอบรมหลักสูตรความรู้เกี่ยวกับกฎหมายคุ้มครองข้อมูลส่วนบุคคล",
+        "//category":"My Travel Blog for my post-university travels",
+        "image":"11.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Data Science Tools",
+        "//category":"(offline now) A fighting gear company I started",
+        "image":"12.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Basic Cybersecurity",
+        "//category":"Website I built for a restaurant I like in Thailand",
+        "image":"13.jpg",
+        "url":"#"
+      },
+      {
+        "title":"ภูเก็ตต้องชนะ.com",
+        "//category":"A React based resume website template",
+        "image":"14.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Cybersecurity",
+        "//category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"15.jpg",
+        "url":"#"
+      },
+      {
+        "title":"ระบบเครือข่ายคอมพิวเตอร์ขั้นพื้นฐาน",
+        "//category":"My Travel Blog for my post-university travels",
+        "image":"16.jpg",
+        "url":"#"
+      },
+      {
+        "title":"HTML + CSS",
+        "//category":"(offline now) A fighting gear company I started",
+        "image":"17.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Basic Computer security",
+        "//category":"Website I built for a restaurant I like in Thailand",
+        "image":"19.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Microsoft Excel ระดับกลาง",
+        "//category":"Website I built for a restaurant I like in Thailand",
+        "image":"20.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Digital Lateracy",
+        "//category":"A React based resume website template",
+        "image":"21.jpg",
+        "url":"#"
+      },
+      {
+        "title":"UX",
+        "//category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"22.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"ภาษาอังกฤษสำหรับนักคอมพิวเตอร์",
+        "//category":"My Travel Blog for my post-university travels",
+        "image":"23.jpg",
+        "url":"#"
+      },
+      {
+        "title":"PDPA SMEs",
+        "//category":"My Travel Blog for my post-university travels",
+        "image":"25.jpg",
+        "url":"#"
+      },
+      {
+        "title":"วิทยาการข้อมูล",
+        "//category":"My Travel Blog for my post-university travels",
+        "image":"27.jpg",
+        "url":"#"
+      }
+    ]
+  }
+}
